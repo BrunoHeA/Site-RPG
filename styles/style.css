@@ -1,0 +1,15 @@
+@import url(reset.css);
+
+
+body {
+    background-color: #15160e;
+}
+
+header {
+    display: flex;
+    padding: 1.5%;
+}
+
+.pesquisa__link {
+    background-color: #414a2d;
+}
