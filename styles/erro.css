@@ -1,0 +1,23 @@
+@import url('https://fonts.cdnfonts.com/css/comic-helvetic');
+@import url('https://fonts.cdnfonts.com/css/terror-letter');
+@import url(reset.css);
+
+body {
+    background-color: #15160e;
+    color: #b6c197;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    line-height: 1.5;
+}
+
+.erro404 {
+    font-size: 2.5em;
+    font-family: 'comic helvetic';
+}
+
+.abduzida {
+    font-family: 'terror letter';
+}
