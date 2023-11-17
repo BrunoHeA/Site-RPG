@@ -3,4 +3,4 @@
 
  Terminado dia 17/11/2023
 
-**Link para acessar o site pronto: [Site](https://etcetera-ten.vercel.app)**
+**Link para acessar o site pronto: [Site](https://etcetera-ten.vercel.app/conspiracoes.html)**
