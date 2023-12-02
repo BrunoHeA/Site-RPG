@@ -173,3 +173,43 @@ main {
 .conteudod__texto:hover {
     color: var(--cor-hover);
 }
+
+@media screen and (max-width : 1366px) {
+    header {
+        gap: 0px;
+    }
+
+    .titulo {
+        width: 30%;
+    }
+
+    .menu {
+        flex: 1;
+    }
+
+    .pesquisa {
+        margin: auto .7em auto 1.6em;
+        width: 18.2%;
+    }
+
+    .pesquisa__link {
+        width: 100%;
+    }
+
+    main {
+        height: 80vh;
+        font-size: .8em;
+    }
+
+    .conteudod__textot {
+        font-size: 1em;
+    }
+
+    .conteudod__titulo {
+        font-size: 1.5em;
+    }
+
+    .conteudod__texto {
+        font-size: 1.2em;
+    }
+}
